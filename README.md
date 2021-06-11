@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iksorek)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iksorek)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact: dev@mrogon.co.uk
 <!--
